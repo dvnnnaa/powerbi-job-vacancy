@@ -20,7 +20,6 @@ The data includes job field, job position, number of vacancies, posting date, jo
 - Job vacancies are dominated by certain job fields such as Information Technology and Business.
 - Job opportunities are concentrated in major cities.
 - Most job postings require a minimum education level of D3 or S1.
-
 ## How to Use
 1. Download the file `visual analysis.pbix`
 2. Open the file using Power BI Desktop
